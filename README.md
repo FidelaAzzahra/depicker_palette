@@ -5,6 +5,7 @@ web aplikasi untuk tugas akhir mata kuliah Rekayasa Perangkat Lunak Lanjut
 - Dibuat untuk memenuhi tugas akhir web application
 - Untuk hosting web menggunakan https://www.netlify.com/ 
 - Klik https://depicker-palette.netlify.app/ untuk demo website
+- Support untuk browser Chrome dan Edge (Versi PC). Selain itu ada kemungkinan tidak support
 
 <img width="1280" alt="Screen Shot 2022-11-06 at 16 59 25" src="https://user-images.githubusercontent.com/114632917/200165111-618424a0-d405-4fa3-a9c8-505ef61a0208.png">
 
