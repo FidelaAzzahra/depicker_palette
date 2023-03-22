@@ -1,4 +1,5 @@
-# depicker_palette
+<h3>Depicker Palette</h3>
+
 web aplikasi untuk tugas akhir mata kuliah Rekayasa Perangkat Lunak Lanjut
 
 - Group projects mata kuliah Rekayasa Perangkat Lunak Lanjut (RPLL) 
